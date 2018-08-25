@@ -1,0 +1,15 @@
+.header{
+    margin: 10px;
+    font-size: 50px;
+    text-shadow: 3px 2px red;
+}
+
+body{
+    background-image: url("https://www.hdwallpaper.nu/wp-content/uploads/2017/04/sons_of_anarchy-7.jpg");
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+.row{
+    color: white;
+}
